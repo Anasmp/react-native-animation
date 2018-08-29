@@ -2,7 +2,7 @@
 uber like login,otp verification and animated map view
 
 
-<img width="200" alt="portfolio_view" src="https://github.com/Anasmp/tiktok-ui/blob/master/Webp.net-gifmaker.gif">
+<img width="200" alt="portfolio_view" src="https://github.com/Anasmp/react-native-animation/blob/master/2gs2f9.gif">
 
 
 ```npm install```
