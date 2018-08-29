@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/Anas/.android/build-cache/50741320d0a161b8c5371482aa74b1bd3c3b48f7/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="e7a850c25a7efbd533c496ab482c980fdafac58d">
+        <dex dex="/Users/Anas/Desktop/react/monokab/android/app/build/intermediates/pre-dexed/debug/classes_90818c35e3ec053bda0b5fb2e3b48e177d7a49eb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Anas/.android/build-cache/50741320d0a161b8c5371482aa74b1bd3c3b48f7/output/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/Users/Anas/Desktop/react/monokab/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_7579276d099dac705f4ab73e0be26ff5ba5bdac2.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,271 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/Anas/Desktop/react/monokab/android/app/src/main/AndroidManifest.xml:1:1-30:12
+INJECTED from /Users/Anas/Desktop/react/monokab/android/app/src/main/AndroidManifest.xml:1:1-30:12
+INJECTED from /Users/Anas/Desktop/react/monokab/android/app/src/main/AndroidManifest.xml:1:1-30:12
+INJECTED from /Users/Anas/Desktop/react/monokab/android/app/src/main/AndroidManifest.xml:1:1-30:12
+MERGED from [:react-native-maps] /Users/Anas/Desktop/react/monokab/node_modules/react-native-maps/lib/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-12:12
+MERGED from [com.facebook.react:react-native:0.56.0] /Users/Anas/.gradle/caches/transforms-1/files-1.1/react-native-0.56.0.aar/0f500454ac859cd1cff4abfe99fb0fb8/AndroidManifest.xml:2:1-15:12
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/Anas/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/173d1731412b2d6f26e6e2462a006f4d/AndroidManifest.xml:17:1-31:12
+MERGED from [com.google.android.gms:play-services-maps:10.2.4] /Users/Anas/.gradle/caches/transforms-1/files-1.1/play-services-maps-10.2.4.aar/2a4eea26a760f6bb292dc8c42d9278ba/AndroidManifest.xml:16:1-25:12
+MERGED from [com.google.android.gms:play-services-base:10.2.4] /Users/Anas/.gradle/caches/transforms-1/files-1.1/play-services-base-10.2.4.aar/c8d199dfb36088ddc7d3f9e776c74286/AndroidManifest.xml:16:1-21:12
+MERGED from [com.google.maps.android:android-maps-utils:0.5] /Users/Anas/.gradle/caches/transforms-1/files-1.1/android-maps-utils-0.5.aar/bc06c0814cbcd93068ecd70771d1019d/AndroidManifest.xml:2:1-13:12
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/Anas/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/4da20897df83514531e94e65bc4a537f/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/Anas/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/64bf4e7742438a9ed72c52bf76ffab3f/AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.android.gms:play-services-tasks:10.2.4] /Users/Anas/.gradle/caches/transforms-1/files-1.1/play-services-tasks-10.2.4.aar/467178dcc01eb6b58f4051390a773b65/AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-basement:10.2.4] /Users/Anas/.gradle/caches/transforms-1/files-1.1/play-services-basement-10.2.4.aar/9d8d028216e27b4543c72b5ed59d442f/AndroidManifest.xml:16:1-23:12
+MERGED from [com.android.support:support-v4:26.1.0] /Users/Anas/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/7ecf8ce270faf2f05629d4bb859ca70e/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/Anas/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/1c058bade9463011bf0fed94080ce494/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/Anas/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/82fec0de817d4378adacc556f56a03e3/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/Anas/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/6a362069bf8d83787f4bd4e00e2f3bef/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/Anas/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/ffadb0ac72a1ffbe8710fc236570d719/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.1.0] /Users/Anas/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/70ad3f77fdf6075ac3ac0508869c9449/AndroidManifest.xml:17:1-31:12
+MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] /Users/Anas/.gradle/caches/transforms-1/files-1.1/textlayoutbuilder-1.0.0.aar/65a91f0f3b6b8c149d3af8ca0d2d04cb/AndroidManifest.xml:10:1-18:12
+MERGED from [com.facebook.fresco:fresco:1.9.0] /Users/Anas/.gradle/caches/transforms-1/files-1.1/fresco-1.9.0.aar/785bcd5b480cc702031c7ee4258fcdc4/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.9.0] /Users/Anas/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.9.0.aar/41e1f99ca1264a29806a552dac155ad1/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:1.9.0] /Users/Anas/.gradle/caches/transforms-1/files-1.1/drawee-1.9.0.aar/c61584e41680151ca057ab3059dcf003/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:1.9.0] /Users/Anas/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.9.0.aar/4e27d8f5844c5ece67f9ed6d95883fff/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:1.9.0] /Users/Anas/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.9.0.aar/21dac70246b4bf784e092964879dd83b/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.3.0] /Users/Anas/.gradle/caches/transforms-1/files-1.1/soloader-0.3.0.aar/563687ab78f50324ee40371226fc46c0/AndroidManifest.xml:2:1-13:12
+MERGED from [org.webkit:android-jsc:r174650] /Users/Anas/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/7b48b56eb5bdd620b7f61ad0e393408b/AndroidManifest.xml:1:1-3:12
+MERGED from [com.facebook.fresco:fbcore:1.9.0] /Users/Anas/.gradle/caches/transforms-1/files-1.1/fbcore-1.9.0.aar/639da01ff40a6796edae59d6af41acbd/AndroidManifest.xml:2:1-9:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/Anas/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/1339432b2a04333d4a5510c51937e5e0/AndroidManifest.xml:17:1-30:12
+INJECTED from /Users/Anas/Desktop/react/monokab/android/app/src/main/AndroidManifest.xml:1:1-30:12
+INJECTED from /Users/Anas/Desktop/react/monokab/android/app/src/main/AndroidManifest.xml:1:1-30:12
+INJECTED from /Users/Anas/Desktop/react/monokab/android/app/src/main/AndroidManifest.xml:1:1-30:12
+	package
+		ADDED from /Users/Anas/Desktop/react/monokab/android/app/src/main/AndroidManifest.xml:2:5-26
+		INJECTED from /Users/Anas/Desktop/react/monokab/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Anas/Desktop/react/monokab/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/Anas/Desktop/react/monokab/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/Anas/Desktop/react/monokab/android/app/src/main/AndroidManifest.xml:1:1-30:12
+		INJECTED from /Users/Anas/Desktop/react/monokab/android/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/Anas/Desktop/react/monokab/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/Anas/Desktop/react/monokab/android/app/src/main/AndroidManifest.xml:1:1-30:12
+		INJECTED from /Users/Anas/Desktop/react/monokab/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/Anas/Desktop/react/monokab/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/Anas/Desktop/react/monokab/android/app/src/main/AndroidManifest.xml:4:5-67
+MERGED from [:react-native-maps] /Users/Anas/Desktop/react/monokab/node_modules/react-native-maps/lib/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:9:5-67
+MERGED from [:react-native-maps] /Users/Anas/Desktop/react/monokab/node_modules/react-native-maps/lib/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:9:5-67
+MERGED from [com.google.android.gms:play-services-maps:10.2.4] /Users/Anas/.gradle/caches/transforms-1/files-1.1/play-services-maps-10.2.4.aar/2a4eea26a760f6bb292dc8c42d9278ba/AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-maps:10.2.4] /Users/Anas/.gradle/caches/transforms-1/files-1.1/play-services-maps-10.2.4.aar/2a4eea26a760f6bb292dc8c42d9278ba/AndroidManifest.xml:20:5-66
+	android:name
+		ADDED from /Users/Anas/Desktop/react/monokab/android/app/src/main/AndroidManifest.xml:4:22-64
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /Users/Anas/Desktop/react/monokab/android/app/src/main/AndroidManifest.xml:5:5-77
+MERGED from [com.facebook.react:react-native:0.56.0] /Users/Anas/.gradle/caches/transforms-1/files-1.1/react-native-0.56.0.aar/0f500454ac859cd1cff4abfe99fb0fb8/AndroidManifest.xml:11:5-78
+MERGED from [com.facebook.react:react-native:0.56.0] /Users/Anas/.gradle/caches/transforms-1/files-1.1/react-native-0.56.0.aar/0f500454ac859cd1cff4abfe99fb0fb8/AndroidManifest.xml:11:5-78
+	android:name
+		ADDED from /Users/Anas/Desktop/react/monokab/android/app/src/main/AndroidManifest.xml:5:22-75
+application
+ADDED from /Users/Anas/Desktop/react/monokab/android/app/src/main/AndroidManifest.xml:7:5-28:19
+MERGED from [com.facebook.react:react-native:0.56.0] /Users/Anas/.gradle/caches/transforms-1/files-1.1/react-native-0.56.0.aar/0f500454ac859cd1cff4abfe99fb0fb8/AndroidManifest.xml:13:5-20
+MERGED from [com.facebook.react:react-native:0.56.0] /Users/Anas/.gradle/caches/transforms-1/files-1.1/react-native-0.56.0.aar/0f500454ac859cd1cff4abfe99fb0fb8/AndroidManifest.xml:13:5-20
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/Anas/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/173d1731412b2d6f26e6e2462a006f4d/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/Anas/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/173d1731412b2d6f26e6e2462a006f4d/AndroidManifest.xml:25:5-29:19
+MERGED from [com.google.android.gms:play-services-maps:10.2.4] /Users/Anas/.gradle/caches/transforms-1/files-1.1/play-services-maps-10.2.4.aar/2a4eea26a760f6bb292dc8c42d9278ba/AndroidManifest.xml:24:5-19
+MERGED from [com.google.android.gms:play-services-maps:10.2.4] /Users/Anas/.gradle/caches/transforms-1/files-1.1/play-services-maps-10.2.4.aar/2a4eea26a760f6bb292dc8c42d9278ba/AndroidManifest.xml:24:5-19
+MERGED from [com.google.android.gms:play-services-base:10.2.4] /Users/Anas/.gradle/caches/transforms-1/files-1.1/play-services-base-10.2.4.aar/c8d199dfb36088ddc7d3f9e776c74286/AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-base:10.2.4] /Users/Anas/.gradle/caches/transforms-1/files-1.1/play-services-base-10.2.4.aar/c8d199dfb36088ddc7d3f9e776c74286/AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.maps.android:android-maps-utils:0.5] /Users/Anas/.gradle/caches/transforms-1/files-1.1/android-maps-utils-0.5.aar/bc06c0814cbcd93068ecd70771d1019d/AndroidManifest.xml:7:5-11:19
+MERGED from [com.google.maps.android:android-maps-utils:0.5] /Users/Anas/.gradle/caches/transforms-1/files-1.1/android-maps-utils-0.5.aar/bc06c0814cbcd93068ecd70771d1019d/AndroidManifest.xml:7:5-11:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/Anas/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/4da20897df83514531e94e65bc4a537f/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/Anas/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/4da20897df83514531e94e65bc4a537f/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/Anas/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/64bf4e7742438a9ed72c52bf76ffab3f/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/Anas/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/64bf4e7742438a9ed72c52bf76ffab3f/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-tasks:10.2.4] /Users/Anas/.gradle/caches/transforms-1/files-1.1/play-services-tasks-10.2.4.aar/467178dcc01eb6b58f4051390a773b65/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-tasks:10.2.4] /Users/Anas/.gradle/caches/transforms-1/files-1.1/play-services-tasks-10.2.4.aar/467178dcc01eb6b58f4051390a773b65/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:10.2.4] /Users/Anas/.gradle/caches/transforms-1/files-1.1/play-services-basement-10.2.4.aar/9d8d028216e27b4543c72b5ed59d442f/AndroidManifest.xml:19:5-21:19
+MERGED from [com.google.android.gms:play-services-basement:10.2.4] /Users/Anas/.gradle/caches/transforms-1/files-1.1/play-services-basement-10.2.4.aar/9d8d028216e27b4543c72b5ed59d442f/AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-v4:26.1.0] /Users/Anas/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/7ecf8ce270faf2f05629d4bb859ca70e/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] /Users/Anas/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/7ecf8ce270faf2f05629d4bb859ca70e/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/Anas/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/1c058bade9463011bf0fed94080ce494/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/Anas/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/1c058bade9463011bf0fed94080ce494/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/Anas/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/82fec0de817d4378adacc556f56a03e3/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/Anas/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/82fec0de817d4378adacc556f56a03e3/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/Anas/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/6a362069bf8d83787f4bd4e00e2f3bef/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/Anas/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/6a362069bf8d83787f4bd4e00e2f3bef/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/Anas/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/ffadb0ac72a1ffbe8710fc236570d719/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/Anas/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/ffadb0ac72a1ffbe8710fc236570d719/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /Users/Anas/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/70ad3f77fdf6075ac3ac0508869c9449/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /Users/Anas/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/70ad3f77fdf6075ac3ac0508869c9449/AndroidManifest.xml:25:5-29:19
+MERGED from [com.facebook.soloader:soloader:0.3.0] /Users/Anas/.gradle/caches/transforms-1/files-1.1/soloader-0.3.0.aar/563687ab78f50324ee40371226fc46c0/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.3.0] /Users/Anas/.gradle/caches/transforms-1/files-1.1/soloader-0.3.0.aar/563687ab78f50324ee40371226fc46c0/AndroidManifest.xml:11:5-20
+MERGED from [org.webkit:android-jsc:r174650] /Users/Anas/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/7b48b56eb5bdd620b7f61ad0e393408b/AndroidManifest.xml:2:3-17
+MERGED from [org.webkit:android-jsc:r174650] /Users/Anas/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/7b48b56eb5bdd620b7f61ad0e393408b/AndroidManifest.xml:2:3-17
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/Anas/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/1339432b2a04333d4a5510c51937e5e0/AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/Anas/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/1339432b2a04333d4a5510c51937e5e0/AndroidManifest.xml:24:5-28:19
+	android:label
+		ADDED from /Users/Anas/Desktop/react/monokab/android/app/src/main/AndroidManifest.xml:9:7-39
+	android:icon
+		ADDED from /Users/Anas/Desktop/react/monokab/android/app/src/main/AndroidManifest.xml:10:7-41
+	android:allowBackup
+		ADDED from /Users/Anas/Desktop/react/monokab/android/app/src/main/AndroidManifest.xml:11:7-34
+	android:theme
+		ADDED from /Users/Anas/Desktop/react/monokab/android/app/src/main/AndroidManifest.xml:12:7-38
+	android:name
+		ADDED from /Users/Anas/Desktop/react/monokab/android/app/src/main/AndroidManifest.xml:8:7-38
+activity#com.monokab.MainActivity
+ADDED from /Users/Anas/Desktop/react/monokab/android/app/src/main/AndroidManifest.xml:13:7-22:18
+	android:label
+		ADDED from /Users/Anas/Desktop/react/monokab/android/app/src/main/AndroidManifest.xml:15:9-41
+	android:windowSoftInputMode
+		ADDED from /Users/Anas/Desktop/react/monokab/android/app/src/main/AndroidManifest.xml:17:9-51
+	android:configChanges
+		ADDED from /Users/Anas/Desktop/react/monokab/android/app/src/main/AndroidManifest.xml:16:9-79
+	android:name
+		ADDED from /Users/Anas/Desktop/react/monokab/android/app/src/main/AndroidManifest.xml:14:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/Anas/Desktop/react/monokab/android/app/src/main/AndroidManifest.xml:18:9-21:25
+action#android.intent.action.MAIN
+ADDED from /Users/Anas/Desktop/react/monokab/android/app/src/main/AndroidManifest.xml:19:13-65
+	android:name
+		ADDED from /Users/Anas/Desktop/react/monokab/android/app/src/main/AndroidManifest.xml:19:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /Users/Anas/Desktop/react/monokab/android/app/src/main/AndroidManifest.xml:20:13-73
+	android:name
+		ADDED from /Users/Anas/Desktop/react/monokab/android/app/src/main/AndroidManifest.xml:20:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /Users/Anas/Desktop/react/monokab/android/app/src/main/AndroidManifest.xml:23:7-84
+	android:name
+		ADDED from /Users/Anas/Desktop/react/monokab/android/app/src/main/AndroidManifest.xml:23:17-81
+meta-data#com.google.android.geo.API_KEY
+ADDED from /Users/Anas/Desktop/react/monokab/android/app/src/main/AndroidManifest.xml:25:9-27:62
+	android:value
+		ADDED from /Users/Anas/Desktop/react/monokab/android/app/src/main/AndroidManifest.xml:27:5-60
+	android:name
+		ADDED from /Users/Anas/Desktop/react/monokab/android/app/src/main/AndroidManifest.xml:26:5-50
+uses-sdk
+INJECTED from /Users/Anas/Desktop/react/monokab/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/Anas/Desktop/react/monokab/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/Anas/Desktop/react/monokab/android/app/src/main/AndroidManifest.xml
+MERGED from [:react-native-maps] /Users/Anas/Desktop/react/monokab/node_modules/react-native-maps/lib/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-maps] /Users/Anas/Desktop/react/monokab/node_modules/react-native-maps/lib/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.react:react-native:0.56.0] /Users/Anas/.gradle/caches/transforms-1/files-1.1/react-native-0.56.0.aar/0f500454ac859cd1cff4abfe99fb0fb8/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.56.0] /Users/Anas/.gradle/caches/transforms-1/files-1.1/react-native-0.56.0.aar/0f500454ac859cd1cff4abfe99fb0fb8/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/Anas/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/173d1731412b2d6f26e6e2462a006f4d/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/Anas/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/173d1731412b2d6f26e6e2462a006f4d/AndroidManifest.xml:21:5-23:78
+MERGED from [com.google.android.gms:play-services-maps:10.2.4] /Users/Anas/.gradle/caches/transforms-1/files-1.1/play-services-maps-10.2.4.aar/2a4eea26a760f6bb292dc8c42d9278ba/AndroidManifest.xml:23:5-43
+MERGED from [com.google.android.gms:play-services-maps:10.2.4] /Users/Anas/.gradle/caches/transforms-1/files-1.1/play-services-maps-10.2.4.aar/2a4eea26a760f6bb292dc8c42d9278ba/AndroidManifest.xml:23:5-43
+MERGED from [com.google.android.gms:play-services-base:10.2.4] /Users/Anas/.gradle/caches/transforms-1/files-1.1/play-services-base-10.2.4.aar/c8d199dfb36088ddc7d3f9e776c74286/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-base:10.2.4] /Users/Anas/.gradle/caches/transforms-1/files-1.1/play-services-base-10.2.4.aar/c8d199dfb36088ddc7d3f9e776c74286/AndroidManifest.xml:17:5-43
+MERGED from [com.google.maps.android:android-maps-utils:0.5] /Users/Anas/.gradle/caches/transforms-1/files-1.1/android-maps-utils-0.5.aar/bc06c0814cbcd93068ecd70771d1019d/AndroidManifest.xml:5:5-43
+MERGED from [com.google.maps.android:android-maps-utils:0.5] /Users/Anas/.gradle/caches/transforms-1/files-1.1/android-maps-utils-0.5.aar/bc06c0814cbcd93068ecd70771d1019d/AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/Anas/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/4da20897df83514531e94e65bc4a537f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/Anas/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/4da20897df83514531e94e65bc4a537f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/Anas/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/64bf4e7742438a9ed72c52bf76ffab3f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/Anas/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/64bf4e7742438a9ed72c52bf76ffab3f/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:10.2.4] /Users/Anas/.gradle/caches/transforms-1/files-1.1/play-services-tasks-10.2.4.aar/467178dcc01eb6b58f4051390a773b65/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-tasks:10.2.4] /Users/Anas/.gradle/caches/transforms-1/files-1.1/play-services-tasks-10.2.4.aar/467178dcc01eb6b58f4051390a773b65/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:10.2.4] /Users/Anas/.gradle/caches/transforms-1/files-1.1/play-services-basement-10.2.4.aar/9d8d028216e27b4543c72b5ed59d442f/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-basement:10.2.4] /Users/Anas/.gradle/caches/transforms-1/files-1.1/play-services-basement-10.2.4.aar/9d8d028216e27b4543c72b5ed59d442f/AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:support-v4:26.1.0] /Users/Anas/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/7ecf8ce270faf2f05629d4bb859ca70e/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] /Users/Anas/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/7ecf8ce270faf2f05629d4bb859ca70e/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/Anas/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/1c058bade9463011bf0fed94080ce494/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/Anas/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/1c058bade9463011bf0fed94080ce494/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/Anas/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/82fec0de817d4378adacc556f56a03e3/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/Anas/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/82fec0de817d4378adacc556f56a03e3/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/Anas/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/6a362069bf8d83787f4bd4e00e2f3bef/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/Anas/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/6a362069bf8d83787f4bd4e00e2f3bef/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/Anas/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/ffadb0ac72a1ffbe8710fc236570d719/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/Anas/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/ffadb0ac72a1ffbe8710fc236570d719/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:26.1.0] /Users/Anas/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/70ad3f77fdf6075ac3ac0508869c9449/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] /Users/Anas/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/70ad3f77fdf6075ac3ac0508869c9449/AndroidManifest.xml:21:5-23:58
+MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] /Users/Anas/.gradle/caches/transforms-1/files-1.1/textlayoutbuilder-1.0.0.aar/65a91f0f3b6b8c149d3af8ca0d2d04cb/AndroidManifest.xml:14:5-16:41
+MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] /Users/Anas/.gradle/caches/transforms-1/files-1.1/textlayoutbuilder-1.0.0.aar/65a91f0f3b6b8c149d3af8ca0d2d04cb/AndroidManifest.xml:14:5-16:41
+MERGED from [com.facebook.fresco:fresco:1.9.0] /Users/Anas/.gradle/caches/transforms-1/files-1.1/fresco-1.9.0.aar/785bcd5b480cc702031c7ee4258fcdc4/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:1.9.0] /Users/Anas/.gradle/caches/transforms-1/files-1.1/fresco-1.9.0.aar/785bcd5b480cc702031c7ee4258fcdc4/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.9.0] /Users/Anas/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.9.0.aar/41e1f99ca1264a29806a552dac155ad1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.9.0] /Users/Anas/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.9.0.aar/41e1f99ca1264a29806a552dac155ad1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.9.0] /Users/Anas/.gradle/caches/transforms-1/files-1.1/drawee-1.9.0.aar/c61584e41680151ca057ab3059dcf003/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.9.0] /Users/Anas/.gradle/caches/transforms-1/files-1.1/drawee-1.9.0.aar/c61584e41680151ca057ab3059dcf003/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.9.0] /Users/Anas/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.9.0.aar/4e27d8f5844c5ece67f9ed6d95883fff/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.9.0] /Users/Anas/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.9.0.aar/4e27d8f5844c5ece67f9ed6d95883fff/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.9.0] /Users/Anas/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.9.0.aar/21dac70246b4bf784e092964879dd83b/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.9.0] /Users/Anas/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.9.0.aar/21dac70246b4bf784e092964879dd83b/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.3.0] /Users/Anas/.gradle/caches/transforms-1/files-1.1/soloader-0.3.0.aar/563687ab78f50324ee40371226fc46c0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.3.0] /Users/Anas/.gradle/caches/transforms-1/files-1.1/soloader-0.3.0.aar/563687ab78f50324ee40371226fc46c0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.fresco:fbcore:1.9.0] /Users/Anas/.gradle/caches/transforms-1/files-1.1/fbcore-1.9.0.aar/639da01ff40a6796edae59d6af41acbd/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.9.0] /Users/Anas/.gradle/caches/transforms-1/files-1.1/fbcore-1.9.0.aar/639da01ff40a6796edae59d6af41acbd/AndroidManifest.xml:5:5-7:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/Anas/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/1339432b2a04333d4a5510c51937e5e0/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/Anas/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/1339432b2a04333d4a5510c51937e5e0/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/Anas/Desktop/react/monokab/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/Anas/Desktop/react/monokab/android/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:26.1.0] /Users/Anas/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/173d1731412b2d6f26e6e2462a006f4d/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /Users/Anas/Desktop/react/monokab/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/Anas/Desktop/react/monokab/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Anas/Desktop/react/monokab/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/Anas/Desktop/react/monokab/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/Anas/Desktop/react/monokab/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Anas/Desktop/react/monokab/android/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from [:react-native-maps] /Users/Anas/Desktop/react/monokab/node_modules/react-native-maps/lib/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:10:5-81
+	android:name
+		ADDED from [:react-native-maps] /Users/Anas/Desktop/react/monokab/node_modules/react-native-maps/lib/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:10:22-78
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:26.1.0] /Users/Anas/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/173d1731412b2d6f26e6e2462a006f4d/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/Anas/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/4da20897df83514531e94e65bc4a537f/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/Anas/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/4da20897df83514531e94e65bc4a537f/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/Anas/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/64bf4e7742438a9ed72c52bf76ffab3f/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/Anas/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/64bf4e7742438a9ed72c52bf76ffab3f/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.1.0] /Users/Anas/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/7ecf8ce270faf2f05629d4bb859ca70e/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] /Users/Anas/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/7ecf8ce270faf2f05629d4bb859ca70e/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/Anas/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/1c058bade9463011bf0fed94080ce494/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/Anas/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/1c058bade9463011bf0fed94080ce494/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/Anas/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/82fec0de817d4378adacc556f56a03e3/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/Anas/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/82fec0de817d4378adacc556f56a03e3/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/Anas/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/6a362069bf8d83787f4bd4e00e2f3bef/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/Anas/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/6a362069bf8d83787f4bd4e00e2f3bef/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/Anas/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/ffadb0ac72a1ffbe8710fc236570d719/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/Anas/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/ffadb0ac72a1ffbe8710fc236570d719/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /Users/Anas/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/70ad3f77fdf6075ac3ac0508869c9449/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /Users/Anas/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/70ad3f77fdf6075ac3ac0508869c9449/AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:appcompat-v7:26.1.0] /Users/Anas/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/173d1731412b2d6f26e6e2462a006f4d/AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:appcompat-v7:26.1.0] /Users/Anas/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/173d1731412b2d6f26e6e2462a006f4d/AndroidManifest.xml:27:13-51
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.gms:play-services-maps:10.2.4] /Users/Anas/.gradle/caches/transforms-1/files-1.1/play-services-maps-10.2.4.aar/2a4eea26a760f6bb292dc8c42d9278ba/AndroidManifest.xml:19:5-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:10.2.4] /Users/Anas/.gradle/caches/transforms-1/files-1.1/play-services-maps-10.2.4.aar/2a4eea26a760f6bb292dc8c42d9278ba/AndroidManifest.xml:19:22-76
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:10.2.4] /Users/Anas/.gradle/caches/transforms-1/files-1.1/play-services-maps-10.2.4.aar/2a4eea26a760f6bb292dc8c42d9278ba/AndroidManifest.xml:21:5-77
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:10.2.4] /Users/Anas/.gradle/caches/transforms-1/files-1.1/play-services-maps-10.2.4.aar/2a4eea26a760f6bb292dc8c42d9278ba/AndroidManifest.xml:21:19-51
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:10.2.4] /Users/Anas/.gradle/caches/transforms-1/files-1.1/play-services-maps-10.2.4.aar/2a4eea26a760f6bb292dc8c42d9278ba/AndroidManifest.xml:21:52-75
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:10.2.4] /Users/Anas/.gradle/caches/transforms-1/files-1.1/play-services-base-10.2.4.aar/c8d199dfb36088ddc7d3f9e776c74286/AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:10.2.4] /Users/Anas/.gradle/caches/transforms-1/files-1.1/play-services-base-10.2.4.aar/c8d199dfb36088ddc7d3f9e776c74286/AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:10.2.4] /Users/Anas/.gradle/caches/transforms-1/files-1.1/play-services-base-10.2.4.aar/c8d199dfb36088ddc7d3f9e776c74286/AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:10.2.4] /Users/Anas/.gradle/caches/transforms-1/files-1.1/play-services-base-10.2.4.aar/c8d199dfb36088ddc7d3f9e776c74286/AndroidManifest.xml:19:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.maps.android:android-maps-utils:0.5] /Users/Anas/.gradle/caches/transforms-1/files-1.1/android-maps-utils-0.5.aar/bc06c0814cbcd93068ecd70771d1019d/AndroidManifest.xml:8:9-10:69
+MERGED from [com.google.android.gms:play-services-basement:10.2.4] /Users/Anas/.gradle/caches/transforms-1/files-1.1/play-services-basement-10.2.4.aar/9d8d028216e27b4543c72b5ed59d442f/AndroidManifest.xml:20:9-121
+MERGED from [com.google.android.gms:play-services-basement:10.2.4] /Users/Anas/.gradle/caches/transforms-1/files-1.1/play-services-basement-10.2.4.aar/9d8d028216e27b4543c72b5ed59d442f/AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.google.maps.android:android-maps-utils:0.5] /Users/Anas/.gradle/caches/transforms-1/files-1.1/android-maps-utils-0.5.aar/bc06c0814cbcd93068ecd70771d1019d/AndroidManifest.xml:10:13-66
+	android:name
+		ADDED from [com.google.maps.android:android-maps-utils:0.5] /Users/Anas/.gradle/caches/transforms-1/files-1.1/android-maps-utils-0.5.aar/bc06c0814cbcd93068ecd70771d1019d/AndroidManifest.xml:9:13-58
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+IMPLIED from /Users/Anas/Desktop/react/monokab/android/app/src/main/AndroidManifest.xml:1:1-30:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from /Users/Anas/Desktop/react/monokab/android/app/src/main/AndroidManifest.xml:1:1-30:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from /Users/Anas/Desktop/react/monokab/android/app/src/main/AndroidManifest.xml:1:1-30:12 reason: org.webkit.android_jsc requested WRITE_EXTERNAL_STORAGE
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/Anas/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/1339432b2a04333d4a5510c51937e5e0/AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/Anas/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/1339432b2a04333d4a5510c51937e5e0/AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/Anas/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/1339432b2a04333d4a5510c51937e5e0/AndroidManifest.xml:26:13-58
